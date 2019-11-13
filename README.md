@@ -1,3 +1,4 @@
-$ yarn
-$ npm start
+
+- add .env file 
+- run $ yarn after that run $ npm start
 
